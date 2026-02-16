@@ -153,6 +153,7 @@ button:hover {
 
 table {
   width: 100%;
+  min-width: 900px;
   border-collapse: collapse;
   font-size: 15px;
   background: rgba(244,237,220,0.62);
@@ -187,6 +188,11 @@ tbody td {
 }
 
 tbody tr:hover { background: var(--hover); }
+
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
 .pill {
   display: inline-flex;
