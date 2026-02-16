@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game of Thrones — Main Cast (All Seasons)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="title">
+        <h1>Game of Thrones — Main Cast</h1>
+        <div class="crest" aria-hidden="true"></div>
+        <p class="subtitle">
+          A browseable list of everyone credited in the <strong>main titles</strong> across all eight seasons.
+          Use the search box to find a character or actor, filter by season, and click column headers to sort.
+        </p>
+      </div>
+    </header>
+
+    <div class="panel">
+      <div class="controls">
+        <div class="controls-row">
+          <input id="q" type="search" placeholder="Search: character, actor, or what became of them…">
+          <select id="season" aria-label="Season filter">
+            <option value="">All seasons</option>
+            <option value="S01">Season 1</option>
+            <option value="S02">Season 2</option>
+            <option value="S03">Season 3</option>
+            <option value="S04">Season 4</option>
+            <option value="S05">Season 5</option>
+            <option value="S06">Season 6</option>
+            <option value="S07">Season 7</option>
+            <option value="S08">Season 8</option>
+          </select>
+          <button id="reset" type="button">Reset</button>
+        </div>
+
+        <div class="meta">
+          <span>Showing: <strong id="count">0</strong></span>
+          <span>Sorted by: <strong id="sortLabel">Character (A→Z)</strong></span>
+        </div>
+
+        <div class="note">
+          <span class="warn">Note:</span>
+          Episode IDs are a “best effort” index to help browsing; if you need scholarly precision,
+          verify any single entry against an episode guide.
+        </div>
+      </div>
+
+      <table id="t">
+        <thead>
+          <tr>
+            <th data-key="character">Character <span class="hint">click to sort</span></th>
+            <th data-key="actor">Actor <span class="hint">click to sort</span></th>
+            <th data-key="first" class="mono">First</th>
+            <th data-key="last" class="mono">Last</th>
+            <th data-key="end">Fate / Final position</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="5">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <div>
+        Data file: <span class="mono">got_main_cast.json</span> (must be in the same folder as this page).
+      </div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

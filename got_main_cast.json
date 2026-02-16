@@ -1,0 +1,310 @@
+[
+  {
+    "character": "Eddard “Ned” Stark",
+    "actor": "Sean Bean",
+    "first": "S01E01",
+    "last": "S01E09",
+    "end": "Beheaded for treason"
+  },
+  {
+    "character": "Robert Baratheon",
+    "actor": "Mark Addy",
+    "first": "S01E01",
+    "last": "S01E07",
+    "end": "Dies from wounds after boar hunt (wine-fuelled)"
+  },
+  {
+    "character": "Jaime Lannister",
+    "actor": "Nikolaj Coster-Waldau",
+    "first": "S01E01",
+    "last": "S08E05",
+    "end": "Dies with Cersei in the collapse of the Red Keep"
+  },
+  {
+    "character": "Catelyn Stark",
+    "actor": "Michelle Fairley",
+    "first": "S01E01",
+    "last": "S03E09",
+    "end": "Murdered at the Red Wedding"
+  },
+  {
+    "character": "Cersei Lannister",
+    "actor": "Lena Headey",
+    "first": "S01E01",
+    "last": "S08E05",
+    "end": "Dies in the collapse of the Red Keep"
+  },
+  {
+    "character": "Daenerys Targaryen",
+    "actor": "Emilia Clarke",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Killed by Jon Snow after the destruction of King’s Landing"
+  },
+  {
+    "character": "Jorah Mormont",
+    "actor": "Iain Glen",
+    "first": "S01E01",
+    "last": "S08E03",
+    "end": "Dies protecting Daenerys at Winterfell"
+  },
+  {
+    "character": "Viserys Targaryen",
+    "actor": "Harry Lloyd",
+    "first": "S01E01",
+    "last": "S01E06",
+    "end": "Executed by Khal Drogo (molten gold “crown”)"
+  },
+  {
+    "character": "Jon Snow",
+    "actor": "Kit Harington",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Sent to the Night’s Watch; goes north beyond the Wall"
+  },
+  {
+    "character": "Robb Stark",
+    "actor": "Richard Madden",
+    "first": "S01E01",
+    "last": "S03E09",
+    "end": "Killed at the Red Wedding"
+  },
+  {
+    "character": "Sansa Stark",
+    "actor": "Sophie Turner",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Crowned Queen in the North"
+  },
+  {
+    "character": "Arya Stark",
+    "actor": "Maisie Williams",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Sails west of Westeros"
+  },
+  {
+    "character": "Theon Greyjoy",
+    "actor": "Alfie Allen",
+    "first": "S01E01",
+    "last": "S08E03",
+    "end": "Killed defending Bran at Winterfell"
+  },
+  {
+    "character": "Bran Stark",
+    "actor": "Isaac Hempstead Wright",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Elected King of the Six Kingdoms"
+  },
+  {
+    "character": "Joffrey Baratheon",
+    "actor": "Jack Gleeson",
+    "first": "S01E01",
+    "last": "S04E02",
+    "end": "Poisoned at his wedding (“Purple Wedding”)"
+  },
+  {
+    "character": "Sandor “The Hound” Clegane",
+    "actor": "Rory McCann",
+    "first": "S01E01",
+    "last": "S08E05",
+    "end": "Dies fighting Gregor Clegane during the sack of King’s Landing"
+  },
+  {
+    "character": "Tyrion Lannister",
+    "actor": "Peter Dinklage",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Becomes Hand of the King to Bran"
+  },
+  {
+    "character": "Khal Drogo",
+    "actor": "Jason Momoa",
+    "first": "S01E01",
+    "last": "S01E10",
+    "end": "Dies after infected wound / mercy killing by Daenerys"
+  },
+  {
+    "character": "Petyr “Littlefinger” Baelish",
+    "actor": "Aidan Gillen",
+    "first": "S01E01",
+    "last": "S07E07",
+    "end": "Executed at Winterfell on Sansa’s orders"
+  },
+  {
+    "character": "Davos Seaworth",
+    "actor": "Liam Cunningham",
+    "first": "S02E01",
+    "last": "S08E06",
+    "end": "Master of Ships on Bran’s Small Council"
+  },
+  {
+    "character": "Samwell Tarly",
+    "actor": "John Bradley",
+    "first": "S01E01",
+    "last": "S08E06",
+    "end": "Grand Maester"
+  },
+  {
+    "character": "Stannis Baratheon",
+    "actor": "Stephen Dillane",
+    "first": "S02E01",
+    "last": "S05E10",
+    "end": "Killed by Brienne after defeat outside Winterfell"
+  },
+  {
+    "character": "Melisandre",
+    "actor": "Carice van Houten",
+    "first": "S02E01",
+    "last": "S08E03",
+    "end": "Dies after the Battle of Winterfell"
+  },
+  {
+    "character": "Jeor Mormont",
+    "actor": "James Cosmo",
+    "first": "S01E01",
+    "last": "S03E04",
+    "end": "Killed in the mutiny at Craster’s Keep"
+  },
+  {
+    "character": "Bronn",
+    "actor": "Jerome Flynn",
+    "first": "S01E06",
+    "last": "S08E06",
+    "end": "Made Lord of Highgarden and Master of Coin"
+  },
+  {
+    "character": "Varys",
+    "actor": "Conleth Hill",
+    "first": "S01E03",
+    "last": "S08E05",
+    "end": "Executed by dragonfire for treason"
+  },
+  {
+    "character": "Shae",
+    "actor": "Sibel Kekilli",
+    "first": "S01E08",
+    "last": "S04E10",
+    "end": "Strangled by Tyrion in the Tower of the Hand"
+  },
+  {
+    "character": "Margaery Tyrell",
+    "actor": "Natalie Dormer",
+    "first": "S02E03",
+    "last": "S06E10",
+    "end": "Killed in the Sept of Baelor explosion"
+  },
+  {
+    "character": "Tywin Lannister",
+    "actor": "Charles Dance",
+    "first": "S01E07",
+    "last": "S04E10",
+    "end": "Shot by Tyrion with a crossbow"
+  },
+  {
+    "character": "Talisa Maegyr",
+    "actor": "Oona Chaplin",
+    "first": "S02E04",
+    "last": "S03E09",
+    "end": "Killed at the Red Wedding"
+  },
+  {
+    "character": "Ygritte",
+    "actor": "Rose Leslie",
+    "first": "S02E06",
+    "last": "S04E09",
+    "end": "Shot during the Battle of Castle Black"
+  },
+  {
+    "character": "Gendry",
+    "actor": "Joe Dempsie",
+    "first": "S01E04",
+    "last": "S08E06",
+    "end": "Legitimised as Lord of Storm’s End"
+  },
+  {
+    "character": "Tormund Giantsbane",
+    "actor": "Kristofer Hivju",
+    "first": "S03E01",
+    "last": "S08E06",
+    "end": "Returns north beyond the Wall"
+  },
+  {
+    "character": "Brienne of Tarth",
+    "actor": "Gwendoline Christie",
+    "first": "S02E03",
+    "last": "S08E06",
+    "end": "Lord Commander of the Kingsguard"
+  },
+  {
+    "character": "Ramsay Bolton",
+    "actor": "Iwan Rheon",
+    "first": "S03E03",
+    "last": "S06E09",
+    "end": "Devoured by his own hounds"
+  },
+  {
+    "character": "Gilly",
+    "actor": "Hannah Murray",
+    "first": "S02E03",
+    "last": "S08E06",
+    "end": "Lives with Sam; seen in King’s Landing at series end"
+  },
+  {
+    "character": "Daario Naharis",
+    "actor": "Michiel Huisman",
+    "first": "S04E03",
+    "last": "S06E10",
+    "end": "Left in Meereen to keep the peace"
+  },
+  {
+    "character": "Missandei",
+    "actor": "Nathalie Emmanuel",
+    "first": "S03E08",
+    "last": "S08E04",
+    "end": "Beheaded on Cersei’s orders"
+  },
+  {
+    "character": "Tommen Baratheon",
+    "actor": "Dean-Charles Chapman",
+    "first": "S02E01",
+    "last": "S06E10",
+    "end": "Commits suicide after the Sept explosion"
+  },
+  {
+    "character": "Ellaria Sand",
+    "actor": "Indira Varma",
+    "first": "S04E01",
+    "last": "S07E03",
+    "end": "Imprisoned by Cersei; left to die after watching Tyene poisoned"
+  },
+  {
+    "character": "Jaqen H’ghar",
+    "actor": "Tom Wlaschiha",
+    "first": "S02E03",
+    "last": "S06E08",
+    "end": "Remains with the Faceless Men in Braavos"
+  },
+  {
+    "character": "Roose Bolton",
+    "actor": "Michael McElhatton",
+    "first": "S02E02",
+    "last": "S06E02",
+    "end": "Murdered by Ramsay"
+  },
+  {
+    "character": "The High Sparrow",
+    "actor": "Jonathan Pryce",
+    "first": "S05E03",
+    "last": "S06E10",
+    "end": "Killed in the Sept of Baelor explosion"
+  },
+  {
+    "character": "Grey Worm",
+    "actor": "Jacob Anderson",
+    "first": "S03E03",
+    "last": "S08E06",
+    "end": "Sails for Naath with the Unsullied"
+  }
+]
